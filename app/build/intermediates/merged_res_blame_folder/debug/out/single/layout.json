@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/liuhongliang/Downloads/examples-master/lite/examples/video_classification/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/liuhongliang/Downloads/examples-master/lite/examples/video_classification/android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/liuhongliang/Downloads/examples-master/lite/examples/video_classification/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_bottom_sheet.xml",
+        "source": "/Users/liuhongliang/Downloads/examples-master/lite/examples/video_classification/android/app/src/main/res/layout/layout_bottom_sheet.xml"
+    }
+]
